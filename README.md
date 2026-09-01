@@ -16,7 +16,7 @@ APIおよびWebリソースを定期監視し、新着差分のみを検知し�
 ```
 # bash
 python -m venv .venv
+
 # Windows
 .venv\Scripts\activate
 pip install requests schedule python-dotenv
-```

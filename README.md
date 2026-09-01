@@ -13,7 +13,8 @@ APIおよびWebリソースを定期監視し、新着差分のみを検知し�
 - requests, schedule, python-dotenv
 
 ## セットアップ
-```bash
+```
+# bash
 python -m venv .venv
 # Windows
 .venv\Scripts\activate

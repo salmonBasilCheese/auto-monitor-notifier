@@ -18,3 +18,4 @@ python -m venv .venv
 # Windows
 .venv\Scripts\activate
 pip install requests schedule python-dotenv
+```
